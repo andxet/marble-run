@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Trails
+    uniqueID: 4294307721
+    locked: 0
+  - name: Marbles
+    uniqueID: 2704381235
+    locked: 0
